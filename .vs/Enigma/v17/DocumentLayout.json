@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\LenaBoajramMakarem\\source\\repos\\Enigma\\Enigma\\ENIGMA\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4A040311-642F-4ACB-B7F3-682E6C99B760}|Enigma\\Enigma.pyproj|C:\\Users\\LenaBoajramMakarem\\source\\repos\\Enigma\\Enigma\\ENIGMA\\Enigma\\Enigma.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{4A040311-642F-4ACB-B7F3-682E6C99B760}|Enigma\\Enigma.pyproj|solutionrelative:Enigma\\Enigma.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Enigma.py",
+              "DocumentMoniker": "C:\\Users\\LenaBoajramMakarem\\source\\repos\\Enigma\\Enigma\\ENIGMA\\Enigma\\Enigma.py",
+              "RelativeDocumentMoniker": "Enigma\\Enigma.py",
+              "ToolTip": "C:\\Users\\LenaBoajramMakarem\\source\\repos\\Enigma\\Enigma\\ENIGMA\\Enigma\\Enigma.py",
+              "RelativeToolTip": "Enigma\\Enigma.py",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-12-09T12:12:01.542Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
